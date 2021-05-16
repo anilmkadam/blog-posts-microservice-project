@@ -7,6 +7,8 @@
 
 ## Post Service
 ## Comment Service
+## Query Service
+## Moderation Service
 ## Web Client
 
 ## About the application
