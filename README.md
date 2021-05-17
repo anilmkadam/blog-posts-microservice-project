@@ -6,6 +6,7 @@
 - React
 
 ## Post Service
+  Creating and Retrieve all Post.
 ## Comment Service
 ## Query Service
 ## Moderation Service
